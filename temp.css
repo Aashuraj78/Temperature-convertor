@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: azure;
+}
+
+#converter {
+    margin: 50px auto;
+    width: 300px;
+    padding: 20px;
+    border: 1px solid #c0acac;
+    border-radius: 8px;
+    background-color: whitesmoke;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+button {
+    background-color:indianred;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
